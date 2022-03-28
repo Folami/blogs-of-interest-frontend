@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+        "title": "Multimodal Neurons in Artificial Neural Networks",
+        "author": "Gabriel Goh et al.",
+        "url": "https://distill.pub/2021/multimodal-neurons/",
+        "likes": 0
+        },
+        {
+        "title": "Calculus for Machine Learning (7-day mini-course)",
+        "author": "Adrain Tam",
+        "url": "https://machinelearningmastery.com/calculus-for-machine-learning-7-day-mini-course/",
+        "likes": 0
+        },
+        {
+        "title": "Machine Learning is Fun!: The world’s easiest introduction to Machine Learning",
+        "author": "Adam Geitey",
+        "url": "https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471",
+        "likes": 0
+        },
+        {
+        "title": "Algorithms & Data Structures Series: Inspired by Algorithms, Part I course from Princeton University & Algorithms, 4th Edition.",
+        "author": "Omar Elgabry",
+        "url": "https://medium.com/omarelgabrys-blog/algorithms-data-structures-series-85ec94eb8aff",
+        "likes": 0
+        }
+        ]
+  }
